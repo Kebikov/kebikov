@@ -2,10 +2,12 @@
 
 📍 I’m From Belarus (Minsk)
 
-💻 1+ Years Experience in Front-end Development
+💻 1+ Years Experience in Front-end and Back-end Development
+
+📈 7 made projects with the use of Frontend and Backend Technologies
 
 ---
-## My stack:
+## 🛠 My stack:
 ![html](https://img.shields.io/badge/html-%23E5522C?style=for-the-badge&logo=html5&logoColor=%23fff)
 ![css](https://img.shields.io/badge/css3-%232D53E5?style=for-the-badge&logo=css3&logoColor=%23fff)
 ![sass](https://img.shields.io/badge/sass-%23CD689B?style=for-the-badge&logo=sass&logoColor=%23fff)
@@ -26,7 +28,7 @@
 ![markdown](https://img.shields.io/badge/markdown-%232B292B?style=for-the-badge&logo=markdown&logoColor=%23fff)
 
 ---
-## Connect with me:
+## 📞 Connect with me:
 [![instagram](https://img.shields.io/badge/instagram-%23e621d6?style=for-the-badge&logo=instagram&logoColor=%23fff)](https://www.instagram.com/kebikov/)
 [![telegram](https://img.shields.io/badge/telegram-%2338ACE2?style=for-the-badge&logo=telegram&logoColor=%23fff)](https://t.me/+375296949843)
 [![whatsapp](https://img.shields.io/badge/whatsapp-%2349C859?style=for-the-badge&logo=whatsapp&logoColor=%23fff)](https://call.whatsapp.com/voice/JaIvChKLf5aMvVF51pPuIU)
