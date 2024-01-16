@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi all, I'm Yauhen 👋
+
+📍 I’m From Belarus (Minsk)
+
+💻 1+ Years Experience in Front-end Development
 
 ---
 ## My stack:
