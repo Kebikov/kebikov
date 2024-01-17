@@ -25,6 +25,7 @@
 ![ejs](https://img.shields.io/badge/ejs-%23BCCB78?style=for-the-badge&logo=ejs&logoColor=%23fff)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=%23fff)
 ![jest](https://img.shields.io/badge/jest-%23CC4B21?style=for-the-badge&logo=jest&logoColor=%23fff)
+![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9?style=for-the-badge&logo=Webpack&logoColor=%23fff)
 ![markdown](https://img.shields.io/badge/markdown-%232B292B?style=for-the-badge&logo=markdown&logoColor=%23fff)
 
 ---
